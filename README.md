@@ -1,6 +1,6 @@
 # recommendation_algorithms
 
-## Testing python libraries available for recommendation tasks
+## Available Python libraries for recommendation tasks
 
 ### 1. LightFM
 
